@@ -2,7 +2,7 @@
 
 My name is João Cruz. I am a Biochemist by degree, but a programmer at heart. I am also secretly a duck.
 
-🥚 Although programming was always in my genes, with my father being a programmer during most of his life, I only discovered my passion and my talent for this art recently during a 14-week full stack development bootcamp.
+🥚 Although programming was always in my genes, with my father being a programmer during most of his life, I only discovered my passion and talent for this art recently during a 14-week full stack development bootcamp.
 
 🐣 During the bootcamp I developed my main current skills:
   * Java and Object-Oriented Programming
